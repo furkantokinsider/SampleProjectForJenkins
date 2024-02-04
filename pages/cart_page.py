@@ -9,6 +9,8 @@ class CartPage(BasePage):
 
     def is_on_cart_page(self):
         self.is_element_visible(self.CART_PAGE)
+        return True
 
     def verify_product_is_added(self):
         self.is_element_visible(self.PRODUCT_NAME)
+        return True

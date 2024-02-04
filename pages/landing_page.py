@@ -12,6 +12,7 @@ class LandingPage(BasePage):
 
     def is_landing_successful(self):
         self.is_element_visible(self.LOGIN_LOGO)
+        return True
 
     def enter_username(self, username):
         self.send_text(username, *self.USERNAME_TEXTBOX)

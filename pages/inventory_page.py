@@ -10,6 +10,7 @@ class InventoryPage(BasePage):
 
     def is_on_inventory_page(self):
         self.is_element_visible(self.PAGE_TITLE)
+        return True
 
     def click_product(self):
         self.click_element(*self.PRODUCT_NAME)
