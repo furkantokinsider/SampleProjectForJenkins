@@ -11,7 +11,7 @@ class ProductPage(BasePage):
     CART_BUTTON = (By.ID, "shopping_cart_container")
 
     def is_on_right_product_page(self):
-       self.is_element_visible(self.PRODUCT_NAME)
+        self.is_element_visible(self.PRODUCT_NAME)
 
     def click_add_to_cart_button(self):
         self.click_element(*self.ADD_TO_CART_BUTTON)
