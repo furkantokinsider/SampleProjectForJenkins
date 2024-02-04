@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4106c45-617b-4c20-aad1-163ae15e549f" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/pages/cart_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_check_add_to_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_check_add_to_cart.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4106c45-617b-4c20-aad1-163ae15e549f" name="Changes" comment="last commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.Python tests for test_check_add_to_cart.TestCheckAddToCart.test_check_add_to_cart.executor": "Debug",
+    "Python tests.Python tests for test_check_add_to_cart.TestCheckAddToCart.test_check_add_to_cart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -87,11 +83,44 @@
       <option name="project" value="LOCAL" />
       <updated>1707070179404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1707072940144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707072940144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1707072973426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707072973426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1707073007212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707073007212</updated>
+    </task>
+    <task id="LOCAL-00005" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1707073488607</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707073488607</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
   </component>
 </project>
